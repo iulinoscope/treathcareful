@@ -1,5 +1,5 @@
-# treathcareful WARNING!! -Im not responsable if this destroi your PC open just in closed Virtual machines !!!
-# work in windows =change from .txt in .bat or.exe
+# Memz Virus. WARNING!! -Im not responsable if this destroy your PC, Open just in safe enviroment VM !!!
+# work in windows =change from .txt in .bat 
 
 @echo off
 
